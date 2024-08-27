@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4364115707108811724}
   - component: {fileID: 1021301099319110341}
   - component: {fileID: 7939296870922182778}
-  - component: {fileID: 8138325432326572165}
+  - component: {fileID: -5196935957059856679}
   m_Layer: 0
   m_Name: PulpitPrefab
   m_TagString: Untagged
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 6303127416684759786}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.06848517, y: 0.04935657, z: -0.06469585}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 10, y: 0.2, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8138325432326572165
+--- !u!65 &-5196935957059856679
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

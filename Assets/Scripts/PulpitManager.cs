@@ -71,4 +71,14 @@ public class PulpitManager : MonoBehaviour
 
         return newPosition;
     }
+
+    // private IEnumerator OnCollisionEnter(Collision collision)
+    // {
+    //     while(true)
+    //     {
+    //         yield return new WaitForSeconds(deletionDelay);
+    //         // Increment the score when the Doofus lands on the pulpit
+    //         ScoreManager.Instance.IncrementScore();
+    //     }
+    // }
 }
